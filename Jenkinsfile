@@ -1,5 +1,5 @@
 pipeline {
-  agent { label 'master' }
+  agent { docker 'gradle:4.5-jdk8-alpine' }
   stages {
     stage('Build') {
       steps {
