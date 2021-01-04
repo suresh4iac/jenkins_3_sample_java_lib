@@ -3,8 +3,7 @@
  */
 public class Library {
     public boolean someLibraryMethod() {
- feature/my_feature_4
-        System.out.println("Hello World! - my_feature_4/4");
+         System.out.println("Hello World! - my_feature_4/4");
         return true;
     }
 }
