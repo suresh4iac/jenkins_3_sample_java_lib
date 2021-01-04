@@ -4,10 +4,7 @@
 public class Library {
     public boolean someLibraryMethod() {
  feature/my_feature_4
-        System.out.println("Hello World! - my_feature_4");
-
-        System.out.println("Hello World! - feature ");
- master
+        System.out.println("Hello World! - my_feature_4/1");
         return true;
     }
 }
